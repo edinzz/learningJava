@@ -1,1 +1,2 @@
-# Exercises sorted by chapters from the book **Einfach Java by Michael Inden**
+# Exercises sorted by chapters 
+### **Einfach Java by Michael Inden**
